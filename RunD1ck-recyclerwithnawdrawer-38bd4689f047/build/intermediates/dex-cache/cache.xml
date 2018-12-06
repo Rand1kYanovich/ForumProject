@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\cfcf19ecc219addcabda71d002c3558d2530c5af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_75a8454e1f383410ea974f095b4086a88afdea8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\32b5a9895a706f86e3eeb4c82c37804e8c857608\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_9fb36967076b5b82f8b10a505eb8013b938f86ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\d5e5d4c83497d015aca763b5d76751986eff3a3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_5355ec57460ef92820ff8c511a6e545450fc10a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\2fc1d0969fb15d213b7280848228c6d1e2ed4266\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ecd7b4dfedf4467e053e7f9b463b0bf688d3b63">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_5d7da1b37ef1d8573fa1a66ce452d0c85b52c705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\e60ee4aa6e7288db215f61085faa3c00e32aca2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_dfeb66e7ddc8503d6ced0d155e4a39c9e2de3851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\65dfd8faa4b1ad9a6ab34c240e3247bf4e0f813c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_a227f19867b5dfb8b312299634aeeb0d3df4efe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\4824215503516b71dab6a33deebf3fefb38d6577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_fb908d21cb216ab04d41a1687cd192918751899b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\7b626810102eab2ec042c0348d3bac8f2176ea27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_852562075d575248b778c5470c938b40fe5dcdb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\6fd7b5ecebde9c14cad47d197aad4255eaea2d7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_2ec719b68f3f60e9b29dd8f826a2d92939c820fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\976564454fd25f4f0105105ed31934447065cd5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_6a011a7149180705032ee72227cf8b6c329f0e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\5e57f65dc81ce9bfe907c029ee0048833dc485c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_885192a5081aaf78708f3f1b19a278c07b2c64e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\16c20183cc8fe44e2f4826808a275c0c47e53f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_993bfd7929eaa87a52e0215291912774bd4c4ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\018930477ca4b8cd71682ec2eef9156fee5ef71d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_616a73d6f64c3b9458d116678edde43fd272fee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidSdk\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_eda7f5d4d6b5e7bd4b41657a38c461e213f56139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Даниил\.android\build-cache\285b0675d07e7e0976b64ab20151eafcdd76aa58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\AndroidProject\RunD1ck-recyclerwithnawdrawer-38bd4689f047\app\build\intermediates\pre-dexed\debug\classes_f87e9dbfce0fbc5f0f0eca17783326374f8d099e.jar" />
+    </item>
+
+</items>
